@@ -8,7 +8,9 @@ Cada pasta consistem em um capitulo, onde contém pastas com: exemplos (`ex-*`) 
 ## Exemplos
 - `cap1/ex-pesquisa-binaria`:  
 Implementa o exemplo do código de pesquisa binária da **pag 27** 
-- `cap1/ex-ordenacao-selecao`:  
+- `cap2/ex-ordenacao-selecao`:  
 Implementa o exemplo do código de ordenação por seleção da **pag 54** 
-- `cap1/ex-quick-sort`:  
+- `cap3/ex-quick-sort`:  
 Implementa o exemplo do código de quick sort da **pag 83** 
+- `cap4/ex-pesquisa-em-largura`:  
+Implementa o exemplo do código de quick sort da **pag 132** 
