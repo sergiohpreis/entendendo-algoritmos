@@ -14,3 +14,5 @@ Implementa o exemplo do código de ordenação por seleção da **pag 54**
 Implementa o exemplo do código de quick sort da **pag 83** 
 - `cap6/ex-pesquisa-em-largura`:  
 Implementa o exemplo do código de quick sort da **pag 132** 
+- `cap7/ex-dijkstra`:  
+Implementa o exemplo do código do algoritmo de dijkstra da **pag 159** 
