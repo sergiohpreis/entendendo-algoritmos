@@ -15,4 +15,9 @@ Implementa o exemplo do código de quick sort da **pag 83**
 - `cap6/ex-pesquisa-em-largura`:  
 Implementa o exemplo do código de quick sort da **pag 132** 
 - `cap7/ex-dijkstra`:  
-Implementa o exemplo do código do algoritmo de dijkstra da **pag 159** 
+Implementa o exemplo do código do algoritmo de dijkstra da **pag 159**
+- `cap8/ex-aproximacao`:  
+Implementa o exemplo do código do algoritmo de aproximação da **pag 178** 
+
+## TODO
+- [ ] Implementar [fatih/color](https://github.com/fatih/color) para deixar o output do terminal mais bonito
